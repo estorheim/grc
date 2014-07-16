@@ -1,0 +1,4 @@
+#!/bin/bash
+# Installation script for the GNU radio companion.
+
+sudo apt-get update && sudo apt-get upgrade
